@@ -2,7 +2,7 @@
 
 - Interactive app: [cintel-04-reactive](https://kqwwj0-christian-jackson.shinyapps.io/cintel-04-reactive/)
 - Repository: [cintel-04-reactive](https://github.com/ChristianJBNB/cintel-04-reactive)
-- Author: [Christian Jackson](https://github.com/ChristianJBNB)
+- Author: [Christian Jackson](https://github.com/ChristianJBNB) 
 
 -----
 
