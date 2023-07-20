@@ -52,7 +52,7 @@ def get_mtcars_server_functions(input, output, session):
 
         #Max HP Filter
         max_hp = df["hp"] <= input.MTCARS_MAX_HP()
-        new_df = df[max_hp]
+        filtered_df = df[max_hp]
 
         # Set the reactive value
         reactive_df.set(filtered_df)
